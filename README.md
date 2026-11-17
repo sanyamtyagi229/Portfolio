@@ -1,4 +1,4 @@
-# Your site, exported from Jiro
+# Your site your portfolio
 
 This is a complete Vite + React + TypeScript project — your code is yours.
 
